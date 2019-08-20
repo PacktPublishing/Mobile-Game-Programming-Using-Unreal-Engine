@@ -1,0 +1,273 @@
+﻿Log file open, 03/07/19 12:01:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: EndlessRunnerCourse
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.300912
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.119s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: Radeon (TM) RX 480 Graphics
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  /Game/EndlessRunner -game -PIEVIACONSOLE -ResX=720 -ResY=1280  -Multiprocess -messaging -SessionName="Play in Standalone Game" -featureleveles2 -faketouches -windowed -ForceRes 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.07-10.01.29:653][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.07-10.01.29:653][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.07-10.01.29:658][  0]LogHAL: Display: Platform has ~ 16 GB [17117880320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.07-10.01.29:658][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.07-10.01.29:658][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.07-10.01.29:658][  0]LogInit: Computer: DESKTOP-RA3I6OK
+[2019.03.07-10.01.29:658][  0]LogInit: User: Cairo
+[2019.03.07-10.01.29:658][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.07-10.01.29:658][  0]LogInit: High frequency timer resolution =14.318180 MHz
+[2019.03.07-10.01.29:659][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.07-10.01.29:659][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.07-10.01.29:659][  0]LogMemory: Process Physical Memory: 101.90 MB used, 101.90 MB peak
+[2019.03.07-10.01.29:659][  0]LogMemory: Process Virtual Memory: 92.78 MB used, 92.78 MB peak
+[2019.03.07-10.01.29:659][  0]LogMemory: Physical Memory: 5312.58 MB used,  11012.30 MB free, 16324.88 MB total
+[2019.03.07-10.01.29:659][  0]LogMemory: Virtual Memory: 4644.73 MB used,  11012.30 MB free, 134217728.00 MB total
+[2019.03.07-10.01.29:718][  0]LogInit: Using OS detected language (en-US).
+[2019.03.07-10.01.29:718][  0]LogInit: Using OS detected locale (en-ZA).
+[2019.03.07-10.01.29:719][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.07-10.01.30:122][  0]LogStreaming: Display: Took  0.404s to InitEngineTextLocalization.
+[2019.03.07-10.01.30:156][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.07-10.01.30:156][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.07-10.01.30:177][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.07-10.01.30:177][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.07-10.01.30:203][  0]LogD3D11RHI:    0. 'Radeon (TM) RX 480 Graphics' (Feature Level 11_0)
+[2019.03.07-10.01.30:203][  0]LogD3D11RHI:       8172/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.03.07-10.01.30:205][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.07-10.01.30:205][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.07-10.01.30:205][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.07-10.01.30:213][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.07-10.01.30:213][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2019.03.07-10.01.30:213][  0]LogWindows: EnumDisplayDevices:
+[2019.03.07-10.01.30:213][  0]LogWindows:    0. 'Radeon (TM) RX 480 Graphics' (P:1 D:1)
+[2019.03.07-10.01.30:214][  0]LogWindows:    1. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.03.07-10.01.30:214][  0]LogWindows:    2. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.03.07-10.01.30:215][  0]LogWindows:    3. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.03.07-10.01.30:215][  0]LogWindows:    4. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.03.07-10.01.30:216][  0]LogWindows:    5. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.03.07-10.01.30:216][  0]LogWindows:    6. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.03.07-10.01.30:217][  0]LogWindows:    7. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.03.07-10.01.30:217][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2019.03.07-10.01.30:217][  0]LogD3D11RHI:     Adapter Name: Radeon (TM) RX 480 Graphics
+[2019.03.07-10.01.30:217][  0]LogD3D11RHI:   Driver Version: Adrenalin 2019 19.2.2 (internal:25.20.15021.1007, unified:25.20.15021.1007)
+[2019.03.07-10.01.30:217][  0]LogD3D11RHI:      Driver Date: 2-12-2019
+[2019.03.07-10.01.30:217][  0]LogRHI: Texture pool is 5720 MB (70% of 8172 MB)
+[2019.03.07-10.01.30:281][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.07-10.01.30:293][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.03.07-10.01.30:295][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (E:/WORK/COURSES/MOBILE ENDLESS RUNNER/PROJECT FILES/EndlessRunenrCourse/Intermediate/Shaders/WorkingDirectory/1860/).
+[2019.03.07-10.01.30:295][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Andrew/AppData/Local/Temp/UnrealShaderWorkingDir/9BAA671147CE3E639C18C29B2A623F8C/'.
+[2019.03.07-10.01.30:593][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.07-10.01.30:607][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.07-10.01.30:621][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.07-10.01.30:628][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.07-10.01.30:628][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.07-10.01.30:691][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.07-10.01.30:691][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.07-10.01.30:691][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.07-10.01.31:590][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.07-10.01.31:660][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Andrew/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.07-10.01.31:660][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Andrew/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.07-10.01.31:660][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/WORK/COURSES/MOBILE ENDLESS RUNNER/PROJECT FILES/EndlessRunenrCourse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.07-10.01.31:660][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.07-10.01.31:660][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/WORK/COURSES/MOBILE ENDLESS RUNNER/PROJECT FILES/EndlessRunenrCourse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.07-10.01.31:660][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.07-10.01.31:675][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.07-10.01.31:687][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Andrew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.07-10.01.31:687][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.07-10.01.31:687][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.07-10.01.31:687][  0]LogMaterial: Verifying Global Shaders for PCD3D_ES2
+[2019.03.07-10.01.32:092][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.07-10.01.32:093][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.07-10.01.32:158][  0]LogShaderCompilers: Display: Shaders left to compile 582
+[2019.03.07-10.01.32:158][  0]LogShaderCompilers: Display: Shaders left to compile 581
+[2019.03.07-10.01.32:158][  0]LogShaderCompilers: Display: Shaders left to compile 580
+[2019.03.07-10.01.32:158][  0]LogShaderCompilers: Display: Shaders left to compile 579
+[2019.03.07-10.01.32:158][  0]LogShaderCompilers: Display: Shaders left to compile 578
+[2019.03.07-10.01.32:158][  0]LogInit: Using OS detected language (en-US).
+[2019.03.07-10.01.32:158][  0]LogInit: Using OS detected locale (en-ZA).
+[2019.03.07-10.01.32:158][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2019.03.07-10.01.32:158][  0]LogTextLocalizationManager: No localization for 'en-ZA' exists, so 'en' will be used for the locale.
+[2019.03.07-10.01.32:536][  0]LogStreaming: Display: Took  0.378s to InitGameTextLocalization.
+[2019.03.07-10.01.32:551][  0]LogAssetRegistry: FAssetRegistry took 0.0093 seconds to start up
+[2019.03.07-10.01.33:044][  0]LogShaderCompilers: Display: Shaders left to compile 577
+[2019.03.07-10.01.33:044][  0]LogShaderCompilers: Display: Shaders left to compile 576
+[2019.03.07-10.01.33:044][  0]LogShaderCompilers: Display: Shaders left to compile 575
+[2019.03.07-10.01.33:044][  0]LogShaderCompilers: Display: Shaders left to compile 574
+[2019.03.07-10.01.33:044][  0]LogShaderCompilers: Display: Shaders left to compile 573
+[2019.03.07-10.01.33:044][  0]LogShaderCompilers: Display: Shaders left to compile 572
+[2019.03.07-10.01.33:044][  0]LogShaderCompilers: Display: Shaders left to compile 571
+[2019.03.07-10.01.33:044][  0]LogShaderCompilers: Display: Shaders left to compile 570
+[2019.03.07-10.01.33:044][  0]LogShaderCompilers: Display: Shaders left to compile 569
+[2019.03.07-10.01.33:044][  0]LogShaderCompilers: Display: Shaders left to compile 568
+[2019.03.07-10.01.33:044][  0]LogShaderCompilers: Display: Shaders left to compile 567
+[2019.03.07-10.01.33:044][  0]LogShaderCompilers: Display: Shaders left to compile 566
+[2019.03.07-10.01.33:044][  0]LogShaderCompilers: Display: Shaders left to compile 565
+[2019.03.07-10.01.33:045][  0]LogShaderCompilers: Display: Shaders left to compile 564
+[2019.03.07-10.01.33:045][  0]LogShaderCompilers: Display: Shaders left to compile 563
+[2019.03.07-10.01.33:045][  0]LogShaderCompilers: Display: Shaders left to compile 562
+[2019.03.07-10.01.33:045][  0]LogShaderCompilers: Display: Shaders left to compile 561
+[2019.03.07-10.01.33:045][  0]LogShaderCompilers: Display: Shaders left to compile 560
+[2019.03.07-10.01.33:045][  0]LogShaderCompilers: Display: Shaders left to compile 559
+[2019.03.07-10.01.33:045][  0]LogShaderCompilers: Display: Shaders left to compile 558
+[2019.03.07-10.01.33:045][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.037821 seconds
+[2019.03.07-10.01.33:287][  0]LogShaderCompilers: Display: Shaders left to compile 557
+[2019.03.07-10.01.33:287][  0]LogShaderCompilers: Display: Shaders left to compile 556
+[2019.03.07-10.01.33:287][  0]LogShaderCompilers: Display: Shaders left to compile 555
+[2019.03.07-10.01.33:287][  0]LogShaderCompilers: Display: Shaders left to compile 554
+[2019.03.07-10.01.33:288][  0]LogShaderCompilers: Display: Shaders left to compile 553
+[2019.03.07-10.01.33:288][  0]LogShaderCompilers: Display: Shaders left to compile 552
+[2019.03.07-10.01.33:288][  0]LogShaderCompilers: Display: Shaders left to compile 551
+[2019.03.07-10.01.33:288][  0]LogShaderCompilers: Display: Shaders left to compile 550
+[2019.03.07-10.01.33:288][  0]LogShaderCompilers: Display: Shaders left to compile 549
+[2019.03.07-10.01.33:288][  0]LogShaderCompilers: Display: Shaders left to compile 548
+[2019.03.07-10.01.33:288][  0]LogShaderCompilers: Display: Shaders left to compile 547
+[2019.03.07-10.01.33:288][  0]LogShaderCompilers: Display: Shaders left to compile 546
+[2019.03.07-10.01.33:288][  0]LogShaderCompilers: Display: Shaders left to compile 545
+[2019.03.07-10.01.33:288][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.07-10.01.33:397][  0]LogShaderCompilers: Display: Shaders left to compile 544
+[2019.03.07-10.01.33:397][  0]LogShaderCompilers: Display: Shaders left to compile 543
+[2019.03.07-10.01.33:397][  0]LogShaderCompilers: Display: Shaders left to compile 542
+[2019.03.07-10.01.33:397][  0]LogShaderCompilers: Display: Shaders left to compile 541
+[2019.03.07-10.01.33:397][  0]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
